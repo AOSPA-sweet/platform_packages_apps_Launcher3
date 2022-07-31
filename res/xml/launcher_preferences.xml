@@ -71,6 +71,12 @@
         launcher:logIdOn="615"
         launcher:logIdOff="616" />
 
+    <SwitchPreference
+        android:key="pref_smartspace"
+        android:title="@string/smartspace_pref_title"
+        android:summary="@string/smartspace_pref_summary"
+        android:defaultValue="true" />
+
     <androidx.preference.PreferenceScreen
         android:persistent="false"
         android:title="@string/suggestion_pref_screen_title"
