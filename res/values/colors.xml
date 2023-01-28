@@ -89,4 +89,5 @@
 
     <color name="work_turn_on_stroke">?android:attr/colorAccent</color>
 
+    <color name="mid_clear_all_background_color">@*android:color/system_neutral2_0</color>
 </resources>
